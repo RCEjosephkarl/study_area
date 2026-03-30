@@ -45,7 +45,14 @@
 			   <description>Two mutants come to a private academy for their kind whose resident superhero team must 
 			   oppose a terrorist organization with similar powers.</description>
 			</movie>
-			</decade></genre>
+			<movie favorite="False" title="X-Men">
+			   <format multiple="Yes">dvd, digital</format>
+			   <year>2000</year>
+			   <rating>PG-13</rating>
+			   <description>Two mutants come to a private academy for their kind whose resident superhero team must 
+			   oppose a terrorist organization with similar powers.</description>
+			</movie>
+			</decade><decade years="2000s" /></genre>
 	
 	<genre category="Thriller">
 		<decade years="1970s">
